@@ -10,6 +10,6 @@
    La anon key es pública por diseño: puede ir en el frontend.
    ============================================================ */
 window.APP_CONFIG = {
-  SUPABASE_URL: "",        // ej: "https://abcdefgh.supabase.co"
-  SUPABASE_ANON_KEY: ""    // ej: "eyJhbGciOiJIUzI1NiIs..."
+  SUPABASE_URL: "https://edktidltzbknxongmdie.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_Cv3pvISE6u3WOAmWv6dhVw_8fMUeLIp"
 };
